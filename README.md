@@ -12,5 +12,5 @@ This repository contains Python scripts that interact with the Twitter API to co
 Run
 ===========
 
-> 1,2 and 4. Python tweet_sentiment.py <file 1> <file 2>
-> 3 and 5. Python frequency <file>
+'1,2 and 4. Python tweet_sentiment.py <file 1> <file 2>
+3 and 5. Python frequency <file>'
