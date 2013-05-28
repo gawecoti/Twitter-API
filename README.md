@@ -13,8 +13,8 @@ To Run
 ===========
 
 ```
-1,2 and 4. Python tweet_sentiment.py <file 1> <file 2>
+For 1,2 and 4: Python tweet_sentiment.py <file 1> <file 2>
 ```
 ```
-3 and 5. Python frequency <file>
+For 3 and 5. Python frequency <file>
 ```
