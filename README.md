@@ -9,8 +9,8 @@ This repository contains Python scripts that interact with the Twitter API to co
 4. happiest_state.py - Returns the happiest state from a set of tweets
 5. top_ten.py - Determines the top ten hashtags from a set of tweets
 
-Run
+To Run
 ===========
 
-`1,2 and 4. Python tweet_sentiment.py <file 1> <file 2>
-3 and 5. Python frequency <file>`
+- `1,2 and 4. Python tweet_sentiment.py <file 1> <file 2>`
+- `3 and 5. Python frequency <file>`
